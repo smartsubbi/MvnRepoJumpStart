@@ -3,7 +3,7 @@
   <groupId>JumpStartFrameWork</groupId>
   <artifactId>JumpStartFrameWork</artifactId>
   <versioning>
-    <release>0.0.13</release>
+    <release>0.0.14</release>
     <versions>
       <version>0.0.2j</version>
       <version>0.0.3</version>
@@ -15,7 +15,8 @@
       <version>0.0.11</version>
       <version>0.0.12</version>
       <version>0.0.13</version>
+      <version>0.0.14</version>
     </versions>
-    <lastUpdated>20160817074559</lastUpdated>
+    <lastUpdated>20160817075127</lastUpdated>
   </versioning>
 </metadata>
